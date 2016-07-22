@@ -21,7 +21,7 @@
     <item quantity="other">Це одразу скоротить кожне листування, залишивши лише %d останніх повідомлень.</item>
   </plurals>
   <string name="ApplicationPreferencesActivity_delete">Видалити</string>
-  <string name="ApplicationPreferencesActivity_disable_passphrase">Відключити фразу-пароль?</string>
+  <string name="ApplicationPreferencesActivity_disable_passphrase">Disable passphrase?</string>
   <string name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">Це відразу розблокує Signal та сповіщення про повідомлення.</string>
   <string name="ApplicationPreferencesActivity_disable">Вимкнути</string>
   <string name="ApplicationPreferencesActivity_unregistering">Припинення реєстрації</string>
