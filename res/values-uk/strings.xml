@@ -711,6 +711,7 @@
   <!-- plurals.xml -->
   <plurals name="hours_ago">
     <item quantity="one">%d hour</item>
+    <item quantity="few">%d hours</item>
     <item quantity="other">%d hours</item>
   </plurals>
   <!-- preferences.xml -->
