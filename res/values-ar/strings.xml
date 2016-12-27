@@ -136,7 +136,6 @@
   <string name="ConversationActivity_lets_switch_to_signal">هيا ننتقل إلى سيجنال %1$s</string>
   <string name="ConversationActivity_lets_use_this_to_chat">دعنا نتواصل عبر هذا: %1$s</string>
   <string name="ConversationActivity_error_leaving_group">خطأ أثناء ترك المجموعة...</string>
-  <string name="ConversationActivity_mms_not_supported_title">رسائل الوسائط المتعددة غير مدعمة</string>
   <string name="ConversationActivity_mms_not_supported_message">لا يمكن الإرسال لأن شبكة الجوال التي تستخدمها لا تدعم رسائل الوسائط المتعددة.</string>
   <string name="ConversationActivity_specify_recipient">رجاء اختيار جهة اتصال</string>
   <string name="ConversationActivity_unblock_question">إلغاء الحظر؟</string>
