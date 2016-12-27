@@ -119,7 +119,6 @@
   <string name="ConversationActivity_lets_switch_to_signal">让我们切换到暗号 %1$s</string>
   <string name="ConversationActivity_lets_use_this_to_chat">让我们使用它来聊天：%1$s</string>
   <string name="ConversationActivity_error_leaving_group">离开群组时遇到错误…</string>
-  <string name="ConversationActivity_mms_not_supported_title">彩信不被支持</string>
   <string name="ConversationActivity_mms_not_supported_message">此信息无法发送，因为您的运营商不支持彩信。</string>
   <string name="ConversationActivity_specify_recipient">请选择一个联系人</string>
   <string name="ConversationActivity_unblock_question">解除屏蔽？</string>
